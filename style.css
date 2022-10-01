@@ -1,5 +1,5 @@
 body {
-    padding: 30px;
+    padding: 50px;
     display: grid;
     place-items: center;
 }
@@ -14,8 +14,8 @@ code {
 [type='color'] {
     appearance: none;
     padding: 0;
-    width: 15px;
-    height: 15px;
+    width: 100px;
+    height: 50px;
     border: none;
 }
 
@@ -28,9 +28,8 @@ code {
 }
 
 .color-picker {
-    padding: 10px 15px;
-    border-radius: 10px;
-    border: 1px solid #ccc;
+    padding: 5px 15px;
+    border-radius: 30px;
+    border: 10px solid #ccc;
     background: #f8f9f9;
 }
-
